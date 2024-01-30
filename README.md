@@ -2,7 +2,7 @@
 
 In Week 1, I set up a basic portfolio website on Amazon S3 for my internship project. Using HTML and CSS, I created and hosted the site by creating a new S3 bucket, uploading files, enabling website hosting, and setting permissions for public access.
 
-Steps:
+Steps
 
 Step 1: Create a bucket
 
